@@ -1,0 +1,8 @@
+﻿  Receiver.cpp
+D:\Prog\os4\Receiver\Receiver\Receiver.cpp(40,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Prog\os4\Receiver\Receiver\Receiver.cpp(43,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Prog\os4\Receiver\Receiver\Receiver.cpp(47,12): error C2664: "BOOL CreateProcessW(LPCWSTR,LPWSTR,LPSECURITY_ATTRIBUTES,LPSECURITY_ATTRIBUTES,BOOL,DWORD,LPVOID,LPCWSTR,LPSTARTUPINFOW,LPPROCESS_INFORMATION)": невозможно преобразовать аргумент 2 из "std::wstring" в "LPWSTR"
+D:\Prog\os4\Receiver\Receiver\Receiver.cpp(47,34): message : Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\processthreadsapi.h(377,1): message : см. объявление "CreateProcessW"
+D:\Prog\os4\Receiver\Receiver\Receiver.cpp(94,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Prog\os4\Receiver\Receiver\Receiver.cpp(97,31): warning C4018: <: несоответствие типов со знаком и без знака
