@@ -1,0 +1,4 @@
+hdfe.bin report:
+1 ew 412 hours $3708
+2 efw 321 hours $2889
+3 efw 1234 hours $11106
